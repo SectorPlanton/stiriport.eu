@@ -1,0 +1,11 @@
+STIRISPORT.EU — EDIȚIE EDITORIALĂ 2 NOIEMBRIE 2026
+
+Materiale noi: 12 articole integrate în js/data.js și pagini individuale în /articole/.
+
+Rubrici acoperite: Liga 1, Champions League, Europa League, Conference League, Naționala României, Premier League, La Liga, Bundesliga, Serie A (notă de transparență privind lipsa unei confirmări primare suficiente), Românii în sport, EURO 2028, Liga Națiunilor, Cupa Mondială și Betting Desk.
+
+Standarde editoriale: rezultatele și programul SuperLigii provin din LPF; calendarele competițiilor europene din UEFA; Premier League din pagina oficială a ligii; LaLiga din calendarul oficial; Bundesliga din calendarul oficial; FRF/UEFA pentru națională; FIFA pentru Cupa Mondială. Nu au fost inventate scoruri, marcatori, accidentări, declarații sau cote.
+
+Betting: cele trei meciuri Champions League sunt doar watchlist. Nu este publicată o recomandare de pariu sau o cotă drept disponibilă în România deoarece nu a fost confirmată simultan o ofertă curentă la un operator autorizat ONJN și o probabilitate proprie robustă. Nu există Cota zilei sau Biletul zilei în această ediție. 18+.
+
+Ora verificării: 2 noiembrie 2026, aproximativ 09:00, ora României. Programul poate fi modificat de organizatori.
