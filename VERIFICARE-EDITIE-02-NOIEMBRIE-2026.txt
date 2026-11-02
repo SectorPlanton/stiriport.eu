@@ -1,0 +1,21 @@
+STIRISPORT.EU — RAPORT DE VERIFICARE EDITORIALĂ ȘI TEHNICĂ
+Data ediției: 2 noiembrie 2026 (Europe/Bucharest)
+
+Materialele actualizate sunt integrate în js/data.js și au pagini statice individuale în /articole/. Au fost eliminate duplicatele de ID din baza de articole.
+
+Surse primare consultate pentru această ediție:
+- LPF: https://lpf.ro/liga-1 (rezultate etapa 14: Corvinul 2-0 FC Argeș; Petrolul 1-1 CFR; Oțelul 1-1 Sepsi; Universitatea Craiova 1-2 FC Botoșani; Dinamo 2-0 UTA; FC Voluntari-Farul și U Cluj-FCSB rămân programate luni).
+- UEFA Champions League: programul etapei 4, 3–4 noiembrie.
+- UEFA Europa League: programul etapei 4, 4–5 noiembrie.
+- UEFA Conference League: etapa 3, Universitatea Craiova–Egnatia pe 5 noiembrie.
+- Premier League: programul 6–8 noiembrie.
+- LaLiga: rezultate 1 noiembrie și Deportivo–Osasuna pe 2 noiembrie.
+- Bundesliga: programul etapei 9, 6–8 noiembrie.
+- Lega Serie A / calendare rezultate: etapa 10, 2 noiembrie.
+- FRF/UEFA: România–Polonia 14 noiembrie; Bosnia–România 17 noiembrie; lista preliminară nu este lot final.
+- UEFA EURO 2028: tragerea la sorți preliminară la Belfast, 6 decembrie 2026.
+- FIFA: Spania a câștigat CM 2026 cu 1-0 contra Argentinei, gol Ferran Torres în minutul 106.
+
+BETTING DESK: trei partide UCL (Barcelona–Aston Villa, Atlético–Bayern, Fenerbahçe–Liverpool) sunt watchlist. Nu există cotă de bookmaker prezentată drept curentă și nici recomandare de pariu; lipsesc confirmarea unei oferte actuale la operator autorizat în România și un model independent de probabilitate.
+
+Limitări: pentru rubrici fără eveniment nou verificabil în această fereastră, nu s-au inventat știri. Rezultatele și programul se actualizează numai după confirmarea organizatorului.
