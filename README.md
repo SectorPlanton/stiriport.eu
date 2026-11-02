@@ -1,6 +1,6 @@
 # STIRISPORT.EU — Fotbal fără pauză
 
-Versiune tehnică și editorială revizuită: 26 octombrie 2026.
+Versiune tehnică revizuită: 2 noiembrie 2026.
 
 ## Publicare pe GitHub Pages
 1. Copiază conținutul acestui director în rădăcina repository-ului GitHub.
@@ -59,3 +59,10 @@ Logo-ul bazat pe profilul TikTok @stirisport.eu a fost integrat în assets/stiri
 
 ## Studio Social
 Deschide `studio-social.html` în browser (sau prin Live Server) pentru a crea vizualuri verticale PNG 1080×1920 pentru TikTok/Reels. Completează numai informații verificate; editorul nu verifică automat știrile.
+
+
+## Actualizare tehnică — 2 noiembrie 2026
+- Integrate în `ARTICLES` cele 18 articole statice care existau în `articole/`, dar lipseau din fluxul dinamic. Acestea devin disponibile în căutare, arhivă, homepage (în funcție de dată) și paginile de competiții.
+- Data ediției de pe homepage este afișată dinamic, folosind data locală a vizitatorului.
+- Sitemap-ul a fost regenerat din fișierele HTML existente; nu au fost inventate valori `lastmod`.
+- Verificarea Search Console rămâne necesară după publicare. Răspunsul public HTTP 200 și `application/xml` confirmă livrarea sitemap-ului, dar nu explică singure eroarea de procesare din Google.

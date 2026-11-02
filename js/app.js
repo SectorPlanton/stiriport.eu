@@ -8,7 +8,13 @@ function adSlot(label,cls=''){return `<div class="ad-slot ${esc(cls)}" aria-labe
 function injectAdsBetweenSections(){}
 function mobileAd(label='Spațiu publicitar · neactiv'){return `<div class="mobile-ad in-feed-ad" aria-label="Spațiu publicitar neactiv"><span>${esc(label)}</span></div>`}
 function renderCards(el,items,withAds=false){if(!items.length){el.innerHTML='<div class="empty">Nu există materiale în această secțiune.</div>';return}if(!withAds){el.innerHTML=items.map(card).join('');return}const chunks=[];items.forEach((a,i)=>{chunks.push(card(a));if((i+1)%3===0&&i<items.length-1)chunks.push(mobileAd())});el.innerHTML=chunks.join('')}
+function updateEditionDate(){
+ const el=qs('#edition-date'); if(!el)return;
+ const now=new Date();
+ el.textContent=new Intl.DateTimeFormat('ro-RO',{day:'numeric',month:'long',year:'numeric'}).format(now);
+}
 function pageShell(){
+ updateEditionDate();
  const nav=qsa('.main-nav a'); const current=location.pathname.split('/').pop()||'index.html';
  nav.forEach(a=>{const href=(a.getAttribute('href')||'').split('#')[0]; if(href===current) a.classList.add('active')});
  const menu=qs('.menu'), mainNav=qs('.main-nav');
