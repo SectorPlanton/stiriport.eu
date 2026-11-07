@@ -1,0 +1,29 @@
+STIRISPORT.EU — RAPORT DE VERIFICARE EDITORIALĂ ȘI TEHNICĂ
+Data ediției: 7 noiembrie 2026 (Europe/Bucharest)
+
+SURSE EDITORIALE
+- LPF: etapa 15, rezultate UTA 0-1 Petrolul și FC Argeș 2-1 Dinamo, clasament și program 7-9 noiembrie.
+- Premier League: programul oficial 7-8 noiembrie; ore convertite din GMT în ora României.
+- LaLiga EA SPORTS: programul oficial 7-8 noiembrie; au fost excluse partidele din alte eșaloane spaniole.
+- Bundesliga: etapa 9, program oficial 7-8 noiembrie; ore convertite din CET în ora României.
+- Lega Serie A: etapa 11, program oficial 7-8 noiembrie; ore convertite din CET în ora României.
+- UEFA Champions League: rezultatele etapei 4, 3-4 noiembrie.
+- UEFA Europa League: rezultate etapa 4, 4-5 noiembrie.
+- UEFA Conference League: Universitatea Craiova 2-0 Egnatia, 5 noiembrie; următorul meci la Brighton pe 26 noiembrie.
+- FRF și UEFA: programul României cu Polonia (14 noiembrie) și Bosnia-Herțegovina (17 noiembrie), plus rezultatele primelor patru partide din grupa B4.
+- Formula 1: programul oficial al Marelui Premiu de la São Paulo, 7-8 noiembrie; conversie UTC-3 la UTC+2.
+- ONJN: registrul public pentru clasificarea licențelor.
+
+BETTING
+Rubrica este exclusiv pre-match. O ofertă publică identificată la un singur operator nu satisface cerința de comparație între toți operatorii autorizați și verificabili. Nu au fost publicate cote, recomandări sau value bets. Nicio selecție de valoare identificată.
+
+AUDIT TEHNIC
+- Verificare sintactică JavaScript: efectuată după modificări.
+- NewsArticle JSON-LD: reparate 14 pagini cu headline/mainEntityOfPage copiate greșit; paginile noi au schema individuală.
+- Corectat articolul istoric despre etapa a 14-a din SuperLiga: Craiova 2-1 Botoșani și rezultatele de luni sunt prezentate consecvent, pe baza LPF.
+- Eliminat loader-ul AdSense din toate paginile HTML; nu se încarcă publicitate înainte de consimțământ. Sloturile publicitare rămân demonstrative/neactive.
+- Adăugată pagina Alte sporturi și integrarea Formula 1 în flux.
+- Actualizate pagina Rezultate, homepage Betting Desk și sitemap.xml.
+- Scorurile live nu sunt conectate.
+
+Nu s-a publicat automat site-ul. Arhiva este livrată pentru verificare și aprobare.

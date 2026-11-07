@@ -1,6 +1,6 @@
 # STIRISPORT.EU — Fotbal fără pauză
 
-Versiune tehnică revizuită: 2 noiembrie 2026.
+Versiune tehnică revizuită: 7 noiembrie 2026.
 
 ## Publicare pe GitHub Pages
 1. Copiază conținutul acestui director în rădăcina repository-ului GitHub.
@@ -66,3 +66,13 @@ Deschide `studio-social.html` în browser (sau prin Live Server) pentru a crea v
 - Data ediției de pe homepage este afișată dinamic, folosind data locală a vizitatorului.
 - Sitemap-ul a fost regenerat din fișierele HTML existente; nu au fost inventate valori `lastmod`.
 - Verificarea Search Console rămâne necesară după publicare. Răspunsul public HTTP 200 și `application/xml` confirmă livrarea sitemap-ului, dar nu explică singure eroarea de procesare din Google.
+
+
+## Actualizare editorială — 7 noiembrie 2026
+- Adăugate sinteze actualizate pentru SuperLiga, Premier League, LaLiga, Bundesliga, Serie A și competițiile UEFA.
+- Adăugat material pentru Marele Premiu de Formula 1 de la São Paulo și o secțiune „Alte sporturi”.
+- Pagina Rezultate reflectă rezultatele confirmate și programul 7–9 noiembrie 2026; nu există conexiune la scoruri live.
+- Betting este exclusiv pre-match. Nu sunt publicate cote sau selecții în această ediție, deoarece comparația multi-operator nu a putut fi verificată complet.
+- Eliminat scriptul AdSense încărcat înainte de alegerea cookies. Publicitatea rămâne neactivă până la implementarea și testarea unei soluții de consimțământ conforme.
+- Corectate datele NewsArticle JSON-LD care indicau un articol greșit pe 14 pagini.
+- Corectată și completată sinteza istorică a etapei a 14-a din SuperLiga pe baza rezultatelor finale LPF.
