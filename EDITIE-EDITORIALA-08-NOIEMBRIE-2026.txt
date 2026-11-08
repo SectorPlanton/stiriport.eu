@@ -1,0 +1,13 @@
+STIRISPORT.EU — EDIȚIE EDITORIALĂ 8 NOIEMBRIE 2026
+
+Actualizare realizată pe baza arhivei ediției din 7 noiembrie 2026.
+Materiale noi: 11 articole în js/data.js și pagini statice individuale în /articole/.
+Categorii: SuperLiga, Premier League, LaLiga, Bundesliga, Serie A, Champions League, Europa League, Conference League, Naționala României, Alte sporturi (Formula 1), Betting Desk.
+
+Rezultate verificate din surse primare: LPF, Premier League/Reuters, LALIGA, Bundesliga, Lega Serie A, UEFA și Formula 1. Programul viitor a fost verificat în calendarele oficiale. Orele internaționale au fost convertite în ora României unde a fost posibil; fusul orar de referință este precizat în articole.
+
+Betting: exclusiv pre-match. Au fost redactate analize calitative pentru meciurile programate la 8 noiembrie. Comparația completă a cotelor tuturor operatorilor autorizați și verificabili în România nu a putut fi confirmată la ora 13:09. Prin urmare nu sunt publicate cote, ponturi value sau bilete. Verdict: nicio selecție de valoare identificată. 18+.
+
+Rezultatele de pe homepage sunt rezultate finale confirmate, nu scoruri live. Nu există integrare de date live.
+
+Nu s-a publicat automat pe GitHub Pages. Arhiva este livrată pentru verificare și aprobare.

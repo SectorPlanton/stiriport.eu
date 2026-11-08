@@ -1,6 +1,6 @@
 # STIRISPORT.EU — Fotbal fără pauză
 
-Versiune tehnică revizuită: 7 noiembrie 2026.
+Versiune tehnică revizuită: 8 noiembrie 2026.
 
 ## Publicare pe GitHub Pages
 1. Copiază conținutul acestui director în rădăcina repository-ului GitHub.

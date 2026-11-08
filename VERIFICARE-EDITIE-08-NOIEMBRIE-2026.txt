@@ -1,0 +1,12 @@
+VERIFICARE TEHNICĂ — EDIȚIA 8 NOIEMBRIE 2026
+
+- Data editorială actualizată în js/data.js și homepage.
+- 11 materiale noi adăugate în baza editorială.
+- 11 pagini HTML individuale generate în /articole/.
+- Pagina rezultate.html actualizată cu rezultate finale și program viitor.
+- Homepage: modul rezultate afișează numai scoruri finale confirmate.
+- Betting: exclusiv pre-match; fără cote sau selecții inventate; lipsa comparației complete este declarată.
+- Sitemap completat cu paginile noi.
+- Cache-busting JS actualizat la 20261108-1.
+
+Verificările automate de sintaxă și integritate sunt efectuate separat înaintea livrării.
